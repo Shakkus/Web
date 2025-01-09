@@ -24,8 +24,6 @@ const Projects = styled.div`
   justify-content: space-around;
   width: 100%;
 `;
-const hola="hola";
-const hola="hola";
 
 const experience = () => {
   const Experiences = [
