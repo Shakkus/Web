@@ -83,6 +83,10 @@ const AboutMe = () => {
       name: "React",
     },
     {
+      icon:"/assets/Icons/astrojs.svg",
+      name:"Astro"
+    },
+    {
       icon: "/assets/Icons/typescript.svg",
       name: "TypeScript",
     },

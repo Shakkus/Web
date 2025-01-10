@@ -34,6 +34,12 @@ const experience = () => {
       stack: ["React", "Typescript", "TailWind", "Vercel"],
     },
     {
+      image:"x",
+      name:"Landing Page",
+      description:"Landing page preparada para una agencia de modelaje",
+      stack:["Astro","Tailwind"]
+    },
+    {
       image: "x",
       name: "Portal Paciente",
       description: "Aplicacion Web para ",
