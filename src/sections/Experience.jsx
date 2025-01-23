@@ -28,22 +28,31 @@ const Projects = styled.div`
 const experience = () => {
   const Experiences = [
     {
-      image: "x",
+      link:"https://entre-copas.vercel.app/",
+      image: "public/assets/Projects/Imagenes-02-02.png",
       name: "Entre Copas",
       description: "Sitio web desarrollado para juntadas, previas, etc.",
       stack: ["React", "Typescript", "TailWind", "Vercel"],
+      propiedad:"Propio"
+
     },
-    {
-      image:"x",
-      name:"Landing Page",
-      description:"Landing page preparada para una agencia de modelaje",
-      stack:["Astro","Tailwind"]
-    },
-    {
-      image: "x",
+
+    { 
+      link:"",
+      image: "public/assets/Projects/Imagenes-02_Mesa de trabajo 1.png",
       name: "Portal Paciente",
-      description: "Aplicacion Web para ",
+      description: "Aplicacion Web para gestion de estudios medicos realizados.",
       stack: ["React", "Typescript", "Redux", "Material Ui"],
+      propiedad:"Bio Box"
+    },
+    {
+      link:"",
+      image: "x",
+      name: "Landing Page",
+      description: "Landing page preparada para una agencia de modelaje",
+      stack: ["Astro", "Tailwind"],
+      propiedad:"Propio"
+
     },
   ];
 
